@@ -1,0 +1,4 @@
+Comments help to read and explain the code that has been written in the program and also help to not render on the screen 
+
+We can use comments by placing the cursor on the line that we need to hide
+and press Ctrl+/ to progress further

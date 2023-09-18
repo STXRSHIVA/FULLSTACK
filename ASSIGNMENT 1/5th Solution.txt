@@ -1,0 +1,1 @@
+It’s like telling the browser,” Hey, this is how the rules of this webpage work!” This way the browser can show the page as intended, following the correct set of guidelines for that specific version of HTML.
